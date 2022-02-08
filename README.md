@@ -20,7 +20,7 @@
 
 ## Screenshot 
 
-![My Posts](https://github.com/kelvinloney/My-Posts/blob/master/screenshot/screenshot.png)
+![My Posts](https://github.com/kelvinloney/My-Posts/blob/main/screenshot/screenshot.png)
 
 
 
